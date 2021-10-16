@@ -1,0 +1,12 @@
+C:\Users\iredc\source\repos\AES_Coder\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\iredc\source\repos\AES_Coder\Business\bin\Debug\net5.0\Business.dll
+C:\Users\iredc\source\repos\AES_Coder\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\iredc\source\repos\AES_Coder\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.dll
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\iredc\source\repos\AES_Coder\Business\obj\Debug\net5.0\Business.pdb
